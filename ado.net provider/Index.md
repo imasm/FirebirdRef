@@ -15,5 +15,5 @@ Install-package FirebirdSql.Data.FirebirdClient
 
 ## Database Manipulation
 
-* [Create Database](CreaetDatabse.md)
+* [Create Database](CreateDatabse.md)
 
