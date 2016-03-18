@@ -4,4 +4,4 @@
 
 ## Firebird Ado.Net Provider 
 
-* [ADO.NET Provider](ADO_NET_Provider/index.md)
+* [ADO.NET Provider](ado.net Provider/index.md)
